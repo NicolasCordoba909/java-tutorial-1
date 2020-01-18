@@ -4,3 +4,5 @@ primer uso de git
 
 
 primer pull
+
+puto el que lee
